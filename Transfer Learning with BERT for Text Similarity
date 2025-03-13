@@ -1,5 +1,5 @@
 Transfer Learning with BERT for Text Similarity
-This project demonstrates how to apply transfer learning using powerful pre-trained model: BERT (Bidirectional Encoder Representations from Transformers) for calculating cosine similarity between text data, and ResNet50 for image classification. This model is fine-tuned on their respective tasks and can be easily adapted for further use in various NLP.
+This project demonstrates how to apply transfer learning using powerful pre-trained model: BERT (Bidirectional Encoder Representations from Transformers) for calculating cosine similarity between text data. This model is fine-tuned on their respective tasks and can be easily adapted for further use in various NLP.
 
 Project Overview
 Text Similarity with BERT: We use the pre-trained bert-large-uncased model to represent text data as embeddings and calculate the cosine similarity between pairs of sentences or documents.
